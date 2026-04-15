@@ -29,9 +29,9 @@ const ROOMS_CONFIG = {
     available: true,           // <-- true ya false karo
     name: "2 Rooms + Kitchen + Bathroom",
     type: "Type B – 2 Rooms ✨ Featured",
-    price: 4000,
+    price: 4700 ,
     floor: "1st Floor",
-    description: "Two-room flat on the first floor — one big main room and one smaller room with an integrated kitchen. Separate private bathroom. Great for a small family.",
+    description: "Two-room flat on the first floor — one big main room and one smaller room with an integrated kitchen. Separate private bathroom. Great for a small family. (negotiable available)",
     features: [
       { icon: "🛏️", text: "Big Room (~150 sq ft)" },
       { icon: "🛋️", text: "Small Room + Kitchen (integrated)" },
